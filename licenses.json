@@ -1,4 +1,4 @@
 {
-  "your-license-key-here": "MyAuthorizedServer",
-  "another-license-key": "AnotherServerName"
+  "yourLicenseKeyHere": true,
+  "anotherLicenseKeyHere": true
 }
